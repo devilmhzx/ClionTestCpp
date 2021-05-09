@@ -3,4 +3,4 @@ project(ClionTestCpp)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(ClionTestCpp main.cpp)
+add_executable(ClionTestCpp main.cpp TestA.h TestA.cpp)
